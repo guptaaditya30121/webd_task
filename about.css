@@ -1,0 +1,106 @@
+body{
+    padding: 0vw;
+    margin: 0vw;
+    background-color: rgb(206, 210, 214);
+}
+.i{
+    width: 30vw;
+    display: inline-block;
+}
+#x{
+    display: inline-block;
+    position:absolute;
+    top: 0vw;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 69vw;
+    margin-top: 0%;
+    height: 7vw;
+    text-align: center;
+    padding-top: 2vw;
+    font-size: 4vw;
+    font-family: 'Lobster', cursive;
+}
+#y{
+    width: 20vw; 
+}
+#card1{
+    padding: 5px 5px;
+    width: 21vw;
+    border: 2px solid rgb(70, 63, 63);
+    display: inline-block;
+    position:absolute;
+    top: 10vw;
+    left:77vw
+   
+    
+}
+#intro{
+    display: inline-block;
+    position: absolute;
+    font-size: 3vw;
+    top: 7vw;
+    left: 26vw;
+    font-family: 'Lobster', cursive;
+    font-weight: 60;
+}
+#y2{
+    width: 20vw; 
+}
+#card2{
+    padding: 5px 5px;
+    width: 21vw;
+    border: 2px solid rgb(70, 63, 63);
+    display: inline-block;
+    position:absolute;
+    top: 30vw;
+    left:77vw
+    
+}
+#y3{
+    width: 43vw; 
+}
+#card3{
+    padding: 5px 5px;
+    width: 44vw;
+    border: 2px solid rgb(70, 63, 63);
+    display: inline-block;
+    position:absolute;
+    top: 18.6vw;
+    left: 31.5vw;
+    
+}
+.first{
+    height: 50vw;
+}
+.second{
+    text-align: center;
+    
+}
+#q{
+    background-color: rgb(0, 0, 0);
+    color: rgb(245, 245, 245);
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+    height: 5vw;
+    text-align: center;
+    padding-top: 1vw;
+    font-size: 4vw;
+    font-family: 'Lobster', cursive;
+    padding-bottom: 2vw;
+   
+}
+.l{
+    font-size: 1.6vw;
+}
+.op{
+display: inline-block;
+width:33vw;
+border: 0.6vw inset rgb(242, 242, 242) ;
+}
+.ASD{
+    padding: 5px 5px;
+    width: 30vw;
+    border: 2px solid rgb(70, 63, 63);
+    display: inline-block;
+}

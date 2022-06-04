@@ -1,0 +1,66 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(225, 225, 221);
+     /* background-image: url(''); */
+    
+}
+
+nav {  background-color: rgb(25, 24, 24);
+    
+    height: 4vw;
+    padding: 0%;
+    margin: 0%;
+    text-align: right;
+    position: sticky;
+    top: 0vw;
+    z-index: 6;
+    }
+    
+        
+    
+    nav a{
+        
+        position: relative;
+        top: 1.2vw;
+        right: 1.6vw;
+        text-decoration: none;
+    color: azure;
+    font-size: 150% ;
+    position: relative;
+      z-index: 2;
+    }
+.container{
+    height: 20vw;
+    background-image: url('https://img.freepik.com/free-photo/female-friends-out-shopping-together_53876-25041.jpg?w=2000'); 
+    background-repeat: no-repeat;
+    
+   
+    background-size:cover;
+    
+}
+#searchWrapper {
+    width: 60vw;
+    position: absolute;
+    top: 14vw;
+    right: 18vw;
+    height: 3vw;
+    border-radius: 1vw;
+    content: '🔍';
+    padding-left: 2vw;
+    font-size: 1.5vw;
+}
+#uu{
+    position: sticky;
+    color:aliceblue;
+    display: inline-block;
+    z-index: 10;
+   text-align: center;
+   top: 0.2vw;
+   left: 21vw;
+   background-color:rgb(25, 24, 24) ;
+    width: 60vw;
+    font-family: 'Kanit', sans-serif;
+    font-style: oblique;
+    transform: scale(1.3) ;
+}
